@@ -1,0 +1,24 @@
+.mybutton {
+  background-color: #ffffff;
+  color: #fdb0ff;
+  border-style: solid;
+  border-color: #fdb0ff;
+  border-radius: 2rem 2rem 2rem 2rem;
+}
+.mybutton:hover {
+  background-color: #fdb0ff;
+  border-color: #fdb0ff;
+  color: #ffffff;
+}
+.mybutton:active {
+  background-color: #fda0ff;
+  border-color: #fda0ff;
+  color: #ffffff;
+}
+.mybutton:visited {
+  background-color: #ffffff;
+  color: #fdb0ff;
+  border-style: solid;
+  border-color: #fdb0ff;
+  border-radius: 2rem 2rem 2rem 2rem;
+}
